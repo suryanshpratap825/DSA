@@ -1,0 +1,3 @@
+Data Structure and Algorithms:
+	A data structure is used for organizing the data. Data Structure is a way of arranging the data on a memory so that is can be accessed and updated efficiently.
+	A data structure is not a hard stuff it is only used for memoery organizaion which help us to organized his memory that why we can be accessed and updated efficiently.
